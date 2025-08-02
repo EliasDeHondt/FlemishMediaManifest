@@ -5,8 +5,29 @@
 ############################
 
 # TV channels
-#EXTINF:-1 tvg-name="BX1" tvg-id="BX1.be" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/bx1.png?raw=true",BX1
+#EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/bx1.png?raw=true",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JoeFM.be" tvg-name="Joe" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/joe.png?raw=true",Joe
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+
+#EXTINF:-1 tvg-id="HLNLive.be" tvg-name="HLN" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/hln.png?raw=true",HLN
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+
+#EXTINF:-1 tvg-id="QMusic.be" tvg-name="Q-Music" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/qmusic.png?raw=true",Q-Music
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
+
+#EXTINF:-1 tvg-id="VTM.be" tvg-name="VTM" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/vtm.png?raw=true",VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+
+#EXTINF:-1 tvg-id="KanaalZ.be" tvg-name="Trends Z" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/kanaalz.png?raw=true",Trends Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/canalz.png?raw=true",Trends Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="LN24.be" tvg-name="LN24" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/ln24.png?raw=true",LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
 
 # Radio channels
 #EXTINF:-1 radio="true" tvg-id="ketnet-hits" tvg-name="Ketnet Hits" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/ketnet_hits.png?raw=true",Ketnet Hits
