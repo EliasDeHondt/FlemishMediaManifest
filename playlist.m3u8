@@ -4,5 +4,5 @@
 # @since 01/01/2025        #
 ############################
 
-#EXTINF:-1 tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-id="BX1.be",BX1
+#EXTINF:-1 tvg-name="BX1" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/bx1.png?raw=true" tvg-id="BX1.be",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
