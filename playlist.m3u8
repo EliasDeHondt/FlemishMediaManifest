@@ -9,12 +9,6 @@
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
 # Radio channels
-#EXTINF:-1 radio="true" tvg-id="vrt-events-radio" tvg-name="VRT" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/vrt.png?raw=true",VRT
-http://icecast.vrtcdn.be/vrtevent-high.mp3
-
-#EXTINF:-1 radio="true" tvg-id="vrtnws-radio" tvg-name="VRT NWS" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/vrtnws.png?raw=true",VRT NWS
-https://progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3
-
 #EXTINF:-1 radio="true" tvg-id="ketnet-hits" tvg-name="Ketnet Hits" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/ketnet_hits.png?raw=true",Ketnet Hits
 http://icecast.vrtcdn.be/ketnetradio-high.mp3
 
