@@ -29,6 +29,9 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="LN24.be" tvg-name="LN24" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/ln24.png?raw=true",LN24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 
+#EXTINF:-1,Inter Milan vs Inter U23 Player
+https://embedsports.top/embed/alpha/inter-milan-vs-inter-u23/1
+
 
 # Radio channels
 #EXTINF:-1 radio="true" tvg-id="ketnet-hits" tvg-name="Ketnet Hits" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/ketnet_hits.png?raw=true",Ketnet Hits
