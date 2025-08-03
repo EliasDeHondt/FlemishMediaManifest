@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site site="tvgids.nl">
-  <channels>
-    <channel update="i" site="tvgids.nl" site_id="49" xmltv_id="VTM">VTM</channel>
-  </channels>
-</site>
