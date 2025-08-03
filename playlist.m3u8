@@ -23,7 +23,7 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 #EXTINF:-1 tvg-id="KanaalZ.be" tvg-name="Trends Z" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/kanaalz.png?raw=true",Trends Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/canalz.png?raw=true",Trends Z
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/canalz.png?raw=true",Canal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="LN24.be" tvg-name="LN24" tvg-logo="https://github.com/EliasDeHondt/FlemishMediaManifest/blob/main/images/ln24.png?raw=true",LN24
